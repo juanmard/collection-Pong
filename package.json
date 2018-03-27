@@ -1,0 +1,18 @@
+{
+  "name": "Pong",
+  "version": "0.1.0",
+  "description": "Icestudio PiXel Stream collection of Pong's Game",
+  "keywords": "Pixel, VGA, Visualization, Image Processing, Game, Pong",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Manuel Rico",
+    "email": "juanmard@gmail.com",
+    "url": "https://github.com/juanmard"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": ""
+  }
+}
