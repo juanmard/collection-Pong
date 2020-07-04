@@ -10,9 +10,5 @@
     "url": "https://github.com/juanmard"
   }],
   "contributors": [],
-  "repository": {
-    "type": "git",
-    "branch": "master",
-    "url": ""
-  }
+  "repository": "juanmard/collection-Pong"
 }
